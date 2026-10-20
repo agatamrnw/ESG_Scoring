@@ -1,0 +1,6 @@
+Symbol,Name,Sector,Price,Price/Earnings,Dividend Yield,Earnings/Share,52 Week Low,52 Week High,Market Cap,EBITDA,Price/Sales,Price/Book,SEC Filings
+MMM,3M,Industrial Conglomerates,162.01,28.776197,0.0189,5.63,139.34,184.9,83552190464.0,6488000000.0,3.3181965,28.303633,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMM
+AOS,A. O. Smith,Building Products,58.68,16.345404,0.0257,3.59,54.16,81.87,7975115264.0,783699968.0,2.0960116,4.329988,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AOS
+BAC,Bank of America,Diversified Banks,50.39,12.026253,0.025,4.19,46.12,65.23,352364593152.0,,3.067374,1.283658,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BAC
+JPM,JPMorgan Chase,Diversified Banks,333.53,13.990353,0.0194,23.84,279.1,366.5,885722316800.0,,4.643781,2.52107,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JPM
+MSFT,Microsoft,Systems Software,533.52,29.722563,0.0074,17.95,349.2,553.72,3961677414400.0,194237005824.0,11.938552,8.956939,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT

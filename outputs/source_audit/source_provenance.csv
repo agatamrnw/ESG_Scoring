@@ -1,0 +1,4 @@
+dataset,filename,rows,columns,date_columns,sha256
+Financial Information,constituents-financials.csv,503,14,,fd8efea4b138f5efe778a7e7175c93e3fec9d20d995c423dbe33280a352ef3c6
+S&P 500 ESG Risk Ratings,SP 500 ESG Risk Ratings.csv,503,15,,a4eeaec06c9fbcbe04be855ba550c2a819fd6f628f395894668e32dd6ab35eff
+Public Company ESG Ratings,data.csv,722,21,last_processing_date,a5d924bf4dd3d4aa3d9cda6585a13b1fe3b750fd570499d50b430717de25951e
