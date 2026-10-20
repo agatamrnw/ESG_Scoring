@@ -1,0 +1,57 @@
+ticker_key,sp500_ticker,sp500_name,sp500_sector,sp500_risk_score,sp500_risk_level,public_ticker,public_name,public_industry,public_esg_score,public_esg_grade,public_environment_score,public_social_score,public_governance_score,public_rating_date
+WFC,WFC,Wells Fargo & Co.,Financial Services,36.2,High,wfc,Wells Fargo & Co,Banking,1100,BBB,500,300,300,19-04-2022
+WRB,WRB,W.R. Berkley Corporation,Financial Services,21.8,Medium,wrb,W R Berkley Corp,Insurance,954,BBB,360,294,300,19-04-2022
+V,V,Visa Inc.,Financial Services,16.7,Low,v,Visa Inc,Technology,1182,BBB,504,368,310,19-04-2022
+USB,USB,U.S. Bancorp,Financial Services,30.3,High,usb,US Bancorp,Banking,953,BBB,336,317,300,19-04-2022
+TFC,TFC,Truist Financial Corporation,Financial Services,,,tfc,Truist Financial Corp,Banking,1088,BBB,480,308,300,11-06-2022
+TRV,TRV,"The Travelers Companies, Inc.",Financial Services,20.3,Medium,trv,Travelers Companies Inc,Insurance,1100,BBB,500,300,300,27-07-2022
+HIG,HIG,"The Hartford Financial Services Group, Inc.",Financial Services,16.6,Low,hig,Hartford Financial Services Group Inc,Insurance,1110,BBB,500,305,305,17-04-2022
+SCHW,SCHW,The Charles Schwab Corporation,Financial Services,23.3,Medium,schw,Charles Schwab Corp,Financial Services,1115,BBB,515,300,300,16-04-2022
+ALL,ALL,The Allstate Corporation,Financial Services,22.0,Medium,all,Allstate Corp,Insurance,1050,BBB,530,300,220,16-04-2022
+TROW,TROW,T Rowe Price Group Inc,Financial Services,16.9,Low,trow,T Rowe Price Group Inc,Financial Services,1145,BBB,510,325,310,19-04-2022
+SYF,SYF,Synchrony Financial,Financial Services,17.3,Low,syf,Synchrony Financial,Financial Services,947,BBB,325,312,310,19-04-2022
+STT,STT,State Street Corporation,Financial Services,24.1,Medium,stt,State Street Corp,Financial Services,646,B,225,211,210,19-04-2022
+SPGI,SPGI,S&p Global Inc.,Financial Services,13.0,Low,spgi,S&P Global Inc,Financial Services,1086,BBB,435,341,310,11-06-2022
+RF,RF,Regions Financial Corp.,Financial Services,16.9,Low,rf,Regions Financial Corp,Banking,1099,BBB,490,304,305,17-04-2022
+RJF,RJF,"Raymond James Financial, Inc.",Financial Services,27.0,Medium,rjf,Raymond James Financial Inc,Financial Services,1119,BBB,505,309,305,19-04-2022
+PRU,PRU,"Prudential Financial, Inc.",Financial Services,19.9,Low,pru,Prudential Financial Inc,Insurance,873,BB,285,300,288,19-04-2022
+PGR,PGR,Progressive Corporation,Financial Services,20.0,Medium,pgr,Progressive Corp,Insurance,975,BBB,350,355,270,19-04-2022
+PFG,PFG,"Principal Financial Group, Inc.",Financial Services,14.2,Low,pfg,Principal Financial Group Inc,Insurance,1175,BBB,555,320,300,18-04-2022
+PNC,PNC,Pnc Financial Services Group,Financial Services,26.1,Medium,pnc,PNC Financial Services Group Inc,Banking,1078,BBB,455,323,300,18-04-2022
+PYPL,PYPL,"Paypal Holdings, Inc.",Financial Services,17.8,Low,pypl,PayPal Holdings Inc,Technology,899,BB,370,244,285,18-04-2022
+NTRS,NTRS,Northern Trust Corp,Financial Services,23.9,Medium,ntrs,Northern Trust Corp,Financial Services,701,B,250,226,225,18-04-2022
+NDAQ,NDAQ,"Nasdaq, Inc.",Financial Services,13.1,Low,ndaq,Nasdaq Inc,Financial Services,1115,BBB,505,310,300,18-04-2022
+MSCI,MSCI,"Msci, Inc.",Financial Services,16.3,Low,msci,MSCI Inc,Financial Services,1262,A,580,347,335,18-04-2022
+MS,MS,Morgan Stanley,Financial Services,24.6,Medium,ms,Morgan Stanley,Financial Services,1178,BBB,555,303,320,18-04-2022
+MCO,MCO,Moody's Corporation,Financial Services,15.8,Low,mco,Moody's Corp,Financial Services,1058,BBB,515,308,235,18-04-2022
+MET,MET,"Metlife, Inc.",Financial Services,16.4,Low,met,MetLife Inc,Insurance,1127,BBB,517,305,305,18-04-2022
+MA,MA,Mastercard Incorporated,Financial Services,17.1,Low,ma,Mastercard Inc,Technology,655,B,210,230,215,18-04-2022
+MMC,MMC,"Marsh & Mclennan Companies, Inc.",Financial Services,21.1,Medium,mmc,Marsh & McLennan Companies Inc,Insurance,1100,BBB,500,300,300,18-04-2022
+MKTX,MKTX,Marketaxess Holdings Inc.,Financial Services,,,mktx,Marketaxess Holdings Inc,Financial Services,653,B,230,213,210,18-04-2022
+MTB,MTB,M&t Bank Corp.,Financial Services,26.5,Medium,mtb,M&T Bank Corp,Banking,1063,BBB,500,303,260,18-04-2022
+L,L,Loews Corporation,Financial Services,16.4,Low,l,Loews Corp,Insurance,1121,BBB,505,303,313,18-04-2022
+JPM,JPM,Jpmorgan Chase & Co.,Financial Services,29.3,Medium,jpm,JPMorgan Chase & Co,Banking,1162,BBB,505,319,338,18-04-2022
+HBAN,HBAN,Huntington Bancshares Inc,Financial Services,21.8,Medium,hban,Huntington Bancshares Inc,Banking,908,BBB,308,300,300,17-04-2022
+GS,GS,Goldman Sachs Group Inc.,Financial Services,25.5,Medium,gs,Goldman Sachs Group Inc,Financial Services,1135,BBB,525,305,305,17-04-2022
+GL,GL,Globe Life Inc.,Financial Services,20.4,Medium,gl,Globe Life Inc,Insurance,668,B,215,238,215,07-06-2022
+BEN,BEN,"Franklin Resources, Inc.",Financial Services,18.3,Low,ben,Franklin Resources Inc,Financial Services,980,BBB,321,349,310,17-04-2022
+FITB,FITB,Fifth Third Bancorp,Financial Services,16.8,Low,fitb,Fifth Third Bancorp,Banking,828,BB,313,300,215,17-04-2022
+DFS,DFS,Discover Financial Services,Financial Services,22.5,Medium,dfs,Discover Financial Services,Financial Services,969,BBB,335,321,313,17-04-2022
+CMA,CMA,Comerica Incorporated,Financial Services,25.2,Medium,cma,Comerica Inc,Banking,810,BB,280,300,230,16-04-2022
+CME,CME,Cme Group Inc.,Financial Services,17.8,Low,cme,CME Group Inc,Financial Services,812,BB,375,237,200,26-07-2022
+CFG,CFG,"Citizens Financial Group, Inc.",Financial Services,23.5,Medium,cfg,Citizens Financial Group Inc,Banking,650,B,230,215,205,16-04-2022
+C,C,Citigroup Inc.,Financial Services,29.2,Medium,c,Citigroup Inc,Banking,1118,BBB,515,300,303,16-04-2022
+CINF,CINF,Cincinnati Financial Corp,Financial Services,25.6,Medium,cinf,Cincinnati Financial Corp,Insurance,760,BB,235,275,250,16-04-2022
+COF,COF,Capital One Financial,Financial Services,22.5,Medium,cof,Capital One Financial Corp,Financial Services,1137,BBB,508,309,320,16-04-2022
+BRO,BRO,"Brown & Brown, Inc.",Financial Services,20.5,Medium,bro,Brown & Brown Inc,Insurance,1025,BBB,405,320,300,16-04-2022
+BX,BX,Blackstone Inc.,Financial Services,23.4,Medium,bx,Blackstone Inc,Financial Services,1197,BBB,534,343,320,16-04-2022
+BK,BK,Bank of New York Mellon Corporation,Financial Services,20.9,Medium,bk,Bank of New York Mellon Corp,Financial Services,1100,BBB,500,300,300,16-04-2022
+BAC,BAC,Bank of America Corporation,Financial Services,28.3,Medium,bac,Bank of America Corp,Banking,879,BB,220,394,265,16-04-2022
+AIZ,AIZ,"Assurant, Inc.",Financial Services,24.1,Medium,aiz,Assurant Inc,Insurance,1054,BBB,438,316,300,16-04-2022
+AJG,AJG,Arthur J. Gallagher & Co.,Financial Services,21.2,Medium,ajg,Arthur J. Gallagher & Co.,Insurance,1184,BBB,530,344,310,16-04-2022
+ACGL,ACGL,Arch Capital Group Ltd,Financial Services,22.5,Medium,acgl,Arch Capital Group Ltd,Insurance,1100,BBB,500,300,300,16-04-2022
+AON,AON,Aon Plc Class A,Financial Services,,,aon,Aon PLC,Insurance,1077,BBB,485,304,288,16-04-2022
+AMP,AMP,"Ameriprise Financial, Inc.",Financial Services,20.3,Medium,amp,Ameriprise Financial Inc,Financial Services,971,BBB,396,308,267,16-04-2022
+AIG,AIG,"American International Group, Inc.",Financial Services,24.2,Medium,aig,American International Group Inc,Insurance,1151,BBB,518,323,310,16-04-2022
+AXP,AXP,American Express Company,Financial Services,18.6,Low,axp,American Express Co,Financial Services,664,B,230,226,208,16-04-2022
+AFL,AFL,Aflac Inc.,Financial Services,18.3,Low,afl,Aflac Inc,Insurance,989,BBB,454,300,235,16-04-2022

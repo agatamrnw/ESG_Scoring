@@ -1,0 +1,10 @@
+column,dtype,missing_count,missing_percent
+Date,str,0,0.0
+Open,float64,0,0.0
+High,float64,0,0.0
+Low,float64,0,0.0
+Close,float64,0,0.0
+Volume,int64,0,0.0
+Dividends,float64,0,0.0
+Stock Splits,float64,0,0.0
+Company,str,0,0.0

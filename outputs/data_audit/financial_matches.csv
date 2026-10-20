@@ -1,0 +1,11 @@
+ticker_key,ghg_ticker,ghg_name,country,ghg_sector,ghg_industry,sp500_ticker,sp500_name,sp500_sector,sp500_risk_score,sp500_risk_level,public_ticker,public_name,public_industry,public_esg_score,public_esg_grade,public_environment_score,public_social_score,public_governance_score,public_rating_date,in_sp500,in_public_esg,has_sp500_score,has_public_score,in_all_three
+JPM,JPM,JPMorgan Chase,United States,Financials,Diversified Banks,JPM,Jpmorgan Chase & Co.,Financial Services,29.3,Medium,jpm,JPMorgan Chase & Co,Banking,1162.0,BBB,505.0,319.0,338.0,18-04-2022,True,True,True,True,True
+BAC,BAC,Bank of America,United States,Financials,Diversified Banks,BAC,Bank of America Corporation,Financial Services,28.3,Medium,bac,Bank of America Corp,Banking,879.0,BB,220.0,394.0,265.0,16-04-2022,True,True,True,True,True
+WFC,WFC,Wells Fargo,United States,Financials,Diversified Banks,WFC,Wells Fargo & Co.,Financial Services,36.2,High,wfc,Wells Fargo & Co,Banking,1100.0,BBB,500.0,300.0,300.0,19-04-2022,True,True,True,True,True
+HSBA,HSBA,HSBC,United Kingdom,Financials,Diversified Banks,,,,,,,,,,,,,,,False,False,False,False,False
+BNP,BNP,BNP Paribas,France,Financials,Diversified Banks,,,,,,,,,,,,,,,False,False,False,False,False
+GS,GS,Goldman Sachs,United States,Financials,Investment Banking,GS,Goldman Sachs Group Inc.,Financial Services,25.5,Medium,gs,Goldman Sachs Group Inc,Financial Services,1135.0,BBB,525.0,305.0,305.0,17-04-2022,True,True,True,True,True
+ALV,ALV,Allianz,Germany,Financials,Insurance,,,,,,,,,,,,,,,False,False,False,False,False
+CS,CS,AXA,France,Financials,Insurance,,,,,,,,,,,,,,,False,False,False,False,False
+BRKB,BRK-B,Berkshire Hathaway,United States,Financials,Diversified Financial Services,BRK-B,Berkshire Hathaway Class B,Financial Services,20.7,Medium,,,,,,,,,,True,False,True,False,False
+BLK,BLK,BlackRock,United States,Financials,Asset Management,BLK,"Blackrock, Inc.",Financial Services,18.3,Low,,,,,,,,,,True,False,True,False,False

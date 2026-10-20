@@ -1,0 +1,15 @@
+column,dtype,missing_count,missing_percent
+Symbol,str,0,0.0
+Name,str,0,0.0
+Sector,str,0,0.0
+Price,float64,0,0.0
+Price/Earnings,float64,2,0.39603960396039606
+Dividend Yield,float64,0,0.0
+Earnings/Share,float64,0,0.0
+52 Week Low,float64,0,0.0
+52 Week High,float64,0,0.0
+Market Cap,float64,0,0.0
+EBITDA,float64,0,0.0
+Price/Sales,float64,0,0.0
+Price/Book,float64,8,1.5841584158415842
+SEC Filings,str,0,0.0

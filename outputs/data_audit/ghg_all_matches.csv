@@ -1,0 +1,99 @@
+ticker_key,ghg_ticker,ghg_name,country,ghg_sector,ghg_industry,sp500_ticker,sp500_name,sp500_sector,sp500_risk_score,sp500_risk_level,public_ticker,public_name,public_industry,public_esg_score,public_esg_grade,public_environment_score,public_social_score,public_governance_score,public_rating_date,in_sp500,in_public_esg,has_sp500_score,has_public_score,in_all_three
+XOM,XOM,ExxonMobil,United States,Energy,Integrated Oil & Gas,XOM,Exxon Mobil Corporation,Energy,41.6,Severe,xom,Exxon Mobil Corp,Energy,1173.0,BBB,538.0,322.0,313.0,17-04-2022,True,True,True,True,True
+CVX,CVX,Chevron,United States,Energy,Integrated Oil & Gas,CVX,Chevron Corporation,Energy,36.6,High,cvx,Chevron Corp,Energy,637.0,B,210.0,217.0,210.0,22-04-2022,True,True,True,True,True
+SHEL,SHEL,Shell,United Kingdom,Energy,Integrated Oil & Gas,,,,,,,,,,,,,,,False,False,False,False,False
+BP,BP,BP,United Kingdom,Energy,Integrated Oil & Gas,,,,,,,,,,,,,,,False,False,False,False,False
+TTE,TTE,TotalEnergies,France,Energy,Integrated Oil & Gas,,,,,,,,,,,,,,,False,False,False,False,False
+COP,COP,ConocoPhillips,United States,Energy,Exploration & Production,COP,Conocophillips,Energy,33.9,High,cop,Conocophillips,Energy,1536.0,A,687.0,544.0,305.0,16-04-2022,True,True,True,True,True
+EQNR,EQNR,Equinor,Norway,Energy,Integrated Oil & Gas,,,,,,,,,,,,,,,False,False,False,False,False
+PBR,PBR,Petrobras,Brazil,Energy,Integrated Oil & Gas,,,,,,,,,,,,,,,False,False,False,False,False
+ENI,ENI,Eni,Italy,Energy,Integrated Oil & Gas,,,,,,,,,,,,,,,False,False,False,False,False
+OXY,OXY,Occidental Petroleum,United States,Energy,Exploration & Production,OXY,Occidental Petroleum Corporation,Energy,41.7,Severe,oxy,Occidental Petroleum Corp,Energy,1107.0,BBB,505.0,302.0,300.0,18-04-2022,True,True,True,True,True
+NEE,NEE,NextEra Energy,United States,Utilities,Electric Utilities,NEE,"Nextra Energy, Inc.",Utilities,23.3,Medium,nee,Nextera Energy Inc,Utilities,1287.0,A,668.0,306.0,313.0,18-04-2022,True,True,True,True,True
+DUK,DUK,Duke Energy,United States,Utilities,Electric Utilities,DUK,Duke Energy Corporation,Utilities,27.0,Medium,duk,Duke Energy Corp,Utilities,1294.0,A,604.0,362.0,328.0,17-04-2022,True,True,True,True,True
+SO,SO,Southern Company,United States,Utilities,Electric Utilities,SO,The Southern Company,Utilities,33.0,High,so,Southern Co,Utilities,1152.0,BBB,515.0,307.0,330.0,19-04-2022,True,True,True,True,True
+D,D,Dominion Energy,United States,Utilities,Electric Utilities,D,"Dominion Energy, Inc",Utilities,26.4,Medium,d,Dominion Energy Inc,Utilities,1170.0,BBB,535.0,325.0,310.0,17-04-2022,True,True,True,True,True
+EXC,EXC,Exelon,United States,Utilities,Electric Utilities,EXC,Exelon Corporation,Utilities,22.9,Medium,exc,Exelon Corp,Utilities,1413.0,A,694.0,403.0,316.0,17-04-2022,True,True,True,True,True
+ENEL,ENEL,Enel,Italy,Utilities,Electric Utilities,,,,,,,,,,,,,,,False,False,False,False,False
+IBE,IBE,Iberdrola,Spain,Utilities,Electric Utilities,,,,,,,,,,,,,,,False,False,False,False,False
+EOAN,EOAN,E.ON,Germany,Utilities,Multi-Utilities,,,,,,,,,,,,,,,False,False,False,False,False
+RWE,RWE,RWE,Germany,Utilities,Electric Utilities,,,,,,,,,,,,,,,False,False,False,False,False
+XEL,XEL,Xcel Energy,United States,Utilities,Electric Utilities,XEL,"Xcel Energy, Inc.",Utilities,26.5,Medium,xel,Xcel Energy Inc,Utilities,629.0,B,223.0,201.0,205.0,20-04-2022,True,True,True,True,True
+BHP,BHP,BHP,Australia,Materials,Diversified Metals & Mining,,,,,,,,,,,,,,,False,False,False,False,False
+RIO,RIO,Rio Tinto,United Kingdom,Materials,Diversified Metals & Mining,,,,,,,,,,,,,,,False,False,False,False,False
+VALE,VALE,Vale,Brazil,Materials,Diversified Metals & Mining,,,,,,,,,,,,,,,False,False,False,False,False
+GLEN,GLEN,Glencore,Switzerland,Materials,Diversified Metals & Mining,,,,,,,,,,,,,,,False,False,False,False,False
+FCX,FCX,Freeport-McMoRan,United States,Materials,Copper,FCX,Freeport-Mcmoran Inc.,Basic Materials,31.6,High,fcx,Freeport-McMoRan Inc,Metals and Mining,1226.0,A,608.0,313.0,305.0,17-04-2022,True,True,True,True,True
+NUE,NUE,Nucor,United States,Materials,Steel,NUE,Nucor Corporation,Basic Materials,32.8,High,nue,Nucor Corp,Metals and Mining,939.0,BBB,374.0,340.0,225.0,18-04-2022,True,True,True,True,True
+MT,MT,ArcelorMittal,Luxembourg,Materials,Steel,,,,,,,,,,,,,,,False,False,False,False,False
+DOW,DOW,Dow Inc,United States,Materials,Specialty Chemicals,DOW,Dow Inc.,Basic Materials,,,dow,Dow Inc,Chemicals,626.0,B,225.0,201.0,200.0,17-04-2022,True,True,False,True,True
+LIN,LIN,Linde,United Kingdom,Materials,Industrial Gases,LIN,Linde Plc,Basic Materials,,,lin,Linde PLC,Chemicals,725.0,B,210.0,240.0,275.0,20-04-2022,True,True,False,True,True
+GE,GE,GE Aerospace,United States,Industrials,Aerospace & Defense,GE,General Electric Company,Industrials,40.5,Severe,ge,General Electric Co,Industrial Conglomerates,1133.0,BBB,533.0,300.0,300.0,10-06-2022,True,True,True,True,True
+HON,HON,Honeywell,United States,Industrials,Diversified Industrials,HON,"Honeywell International, Inc.",Industrials,28.6,Medium,hon,Honeywell International Inc,Industrial Conglomerates,1197.0,BBB,545.0,344.0,308.0,17-04-2022,True,True,True,True,True
+CAT,CAT,Caterpillar,United States,Industrials,Construction & Farm Machinery,CAT,Caterpillar Inc.,Industrials,36.2,High,cat,Caterpillar Inc,Machinery,709.0,B,235.0,239.0,235.0,07-06-2022,True,True,True,True,True
+BA,BA,Boeing,United States,Industrials,Aerospace & Defense,BA,Boeing Company,Industrials,39.6,High,ba,Boeing Co,Aerospace and Defense,679.0,B,220.0,224.0,235.0,21-09-2022,True,True,True,True,True
+LMT,LMT,Lockheed Martin,United States,Industrials,Aerospace & Defense,LMT,Lockheed Martin Corp.,Industrials,30.2,High,lmt,Lockheed Martin Corp,Aerospace and Defense,1154.0,BBB,510.0,324.0,320.0,18-04-2022,True,True,True,True,True
+MMM,MMM,3M,United States,Industrials,Diversified Industrials,MMM,3m Company,Industrials,37.3,High,mmm,3M Co,Industrial Conglomerates,1141.0,BBB,526.0,310.0,305.0,16-04-2022,True,True,True,True,True
+DE,DE,Deere & Company,United States,Industrials,Agricultural Machinery,DE,Deere & Company,Industrials,20.0,Low,de,Deere & Co,Machinery,1204.0,A,560.0,339.0,305.0,17-04-2022,True,True,True,True,True
+SIE,SIE,Siemens,Germany,Industrials,Diversified Industrials,,,,,,,,,,,,,,,False,False,False,False,False
+ABBN,ABBN,ABB,Switzerland,Industrials,Electrical Components & Equipment,,,,,,,,,,,,,,,False,False,False,False,False
+WM,WM,Waste Management,United States,Industrials,Environmental Services,WM,"Waste Management, Inc.",Industrials,16.6,Low,wm,Waste Management Inc,Commercial Services and Supplies,1306.0,A,613.0,408.0,285.0,19-04-2022,True,True,True,True,True
+AAPL,AAPL,Apple,United States,Technology,Consumer Electronics,AAPL,Apple Inc.,Technology,17.2,Low,aapl,Apple Inc,Technology,891.0,BB,355.0,281.0,255.0,16-04-2022,True,True,True,True,True
+MSFT,MSFT,Microsoft,United States,Technology,Software,MSFT,Microsoft Corp,Technology,15.1,Low,msft,Microsoft Corp,Technology,1533.0,A,715.0,443.0,375.0,27-04-2022,True,True,True,True,True
+GOOGL,GOOGL,Alphabet,United States,Technology,Internet Services,GOOGL,Alphabet Inc. Class A,Communication Services,24.2,Medium,googl,Alphabet Inc,Media,1012.0,BBB,295.0,362.0,355.0,30-04-2022,True,True,True,True,True
+META,META,Meta Platforms,United States,Technology,Social Media,META,"Meta Platforms, Inc. Class A",Communication Services,34.1,High,meta,Meta Platforms Inc,Media,652.0,B,205.0,232.0,215.0,22-04-2022,True,True,True,True,True
+NVDA,NVDA,NVIDIA,United States,Technology,Semiconductors,NVDA,Nvidia Corp,Technology,13.6,Low,nvda,NVIDIA Corp,Semiconductors,899.0,BB,323.0,301.0,275.0,18-04-2022,True,True,True,True,True
+TSM,TSM,TSMC,Taiwan,Technology,Semiconductors,,,,,,,,,,,,,,,False,False,False,False,False
+005930KS,005930.KS,Samsung Electronics,South Korea,Technology,Consumer Electronics,,,,,,,,,,,,,,,False,False,False,False,False
+INTC,INTC,Intel,United States,Technology,Semiconductors,INTC,Intel Corp,Technology,18.9,Low,,,,,,,,,,True,False,True,False,False
+ASML,ASML,ASML,Netherlands,Technology,Semiconductor Equipment,,,,,,,,,,,,,,,False,False,False,False,False
+SAP,SAP,SAP,Germany,Technology,Enterprise Software,,,,,,,,,,,,,,,False,False,False,False,False
+NESN,NESN,Nestle,Switzerland,Consumer Staples,Packaged Foods,,,,,,,,,,,,,,,False,False,False,False,False
+ULVR,ULVR,Unilever,United Kingdom,Consumer Staples,Household Products,,,,,,,,,,,,,,,False,False,False,False,False
+PG,PG,Procter & Gamble,United States,Consumer Staples,Household Products,PG,Procter & Gamble Company,Consumer Defensive,28.6,Medium,pg,Procter & Gamble Co,Consumer products,1292.0,A,560.0,422.0,310.0,18-04-2022,True,True,True,True,True
+KO,KO,Coca-Cola,United States,Consumer Staples,Beverages,KO,Coca-Cola Company,Consumer Defensive,21.6,Medium,ko,Coca-Cola Co,Beverages,601.0,B,200.0,201.0,200.0,16-04-2022,True,True,True,True,True
+PEP,PEP,PepsiCo,United States,Consumer Staples,Beverages,PEP,"Pepsico, Inc.",Consumer Defensive,22.1,Medium,pep,PepsiCo Inc,Beverages,1417.0,A,719.0,340.0,358.0,18-04-2022,True,True,True,True,True
+ADM,ADM,Archer-Daniels-Midland,United States,Consumer Staples,Agricultural Products,ADM,Archer Daniels Midland Company,Consumer Defensive,31.8,High,adm,Archer-Daniels-Midland Co,Food Products,1245.0,A,587.0,353.0,305.0,16-04-2022,True,True,True,True,True
+TSN,TSN,Tyson Foods,United States,Consumer Staples,Packaged Meats,TSN,"Tyson Foods, Inc.",Consumer Defensive,35.9,High,tsn,Tyson Foods Inc,Food Products,1244.0,A,530.0,374.0,340.0,19-04-2022,True,True,True,True,True
+PM,PM,Philip Morris International,United States,Consumer Staples,Tobacco,PM,Philip Morris International Inc.,Consumer Defensive,28.5,Medium,pm,Philip Morris International Inc,Tobacco,1162.0,BBB,520.0,327.0,315.0,18-04-2022,True,True,True,True,True
+DGE,DGE,Diageo,United Kingdom,Consumer Staples,Distillers & Vintners,,,,,,,,,,,,,,,False,False,False,False,False
+BN,BN,Danone,France,Consumer Staples,Packaged Foods,,,,,,,,,,,,,,,False,False,False,False,False
+JNJ,JNJ,Johnson & Johnson,United States,Healthcare,Pharmaceuticals,JNJ,Johnson & Johnson,Healthcare,24.0,Medium,jnj,Johnson & Johnson,Pharmaceuticals,1173.0,BBB,565.0,308.0,300.0,18-04-2022,True,True,True,True,True
+PFE,PFE,Pfizer,United States,Healthcare,Pharmaceuticals,PFE,Pfizer Inc.,Healthcare,24.6,Medium,pfe,Pfizer Inc,Pharmaceuticals,1100.0,BBB,500.0,300.0,300.0,18-04-2022,True,True,True,True,True
+MRK,MRK,Merck & Co,United States,Healthcare,Pharmaceuticals,MRK,"Merck & Co., Inc.",Healthcare,21.4,Medium,mrk,Merck & Co Inc,Pharmaceuticals,1120.0,BBB,500.0,305.0,315.0,18-04-2022,True,True,True,True,True
+ABBV,ABBV,AbbVie,United States,Healthcare,Biopharmaceuticals,ABBV,Abbvie Inc.,Healthcare,29.9,Medium,abbv,Abbvie Inc,Biotechnology,1122.0,BBB,505.0,317.0,300.0,16-04-2022,True,True,True,True,True
+ROG,ROG,Roche,Switzerland,Healthcare,Pharmaceuticals,,,,,,,,,,,,,,,False,False,False,False,False
+NOVN,NOVN,Novartis,Switzerland,Healthcare,Pharmaceuticals,,,,,,,,,,,,,,,False,False,False,False,False
+AZN,AZN,AstraZeneca,United Kingdom,Healthcare,Pharmaceuticals,,,,,,,,,,,,,,,False,False,False,False,False
+NOVOB,NOVO-B,Novo Nordisk,Denmark,Healthcare,Pharmaceuticals,,,,,,,,,,,,,,,False,False,False,False,False
+LLY,LLY,Eli Lilly,United States,Healthcare,Pharmaceuticals,LLY,Eli Lilly & Co.,Healthcare,24.3,Medium,lly,Eli Lilly and Co,Pharmaceuticals,1180.0,BBB,510.0,360.0,310.0,17-04-2022,True,True,True,True,True
+BAYN,BAYN,Bayer,Germany,Healthcare,Pharmaceuticals,,,,,,,,,,,,,,,False,False,False,False,False
+JPM,JPM,JPMorgan Chase,United States,Financials,Diversified Banks,JPM,Jpmorgan Chase & Co.,Financial Services,29.3,Medium,jpm,JPMorgan Chase & Co,Banking,1162.0,BBB,505.0,319.0,338.0,18-04-2022,True,True,True,True,True
+BAC,BAC,Bank of America,United States,Financials,Diversified Banks,BAC,Bank of America Corporation,Financial Services,28.3,Medium,bac,Bank of America Corp,Banking,879.0,BB,220.0,394.0,265.0,16-04-2022,True,True,True,True,True
+WFC,WFC,Wells Fargo,United States,Financials,Diversified Banks,WFC,Wells Fargo & Co.,Financial Services,36.2,High,wfc,Wells Fargo & Co,Banking,1100.0,BBB,500.0,300.0,300.0,19-04-2022,True,True,True,True,True
+HSBA,HSBA,HSBC,United Kingdom,Financials,Diversified Banks,,,,,,,,,,,,,,,False,False,False,False,False
+BNP,BNP,BNP Paribas,France,Financials,Diversified Banks,,,,,,,,,,,,,,,False,False,False,False,False
+GS,GS,Goldman Sachs,United States,Financials,Investment Banking,GS,Goldman Sachs Group Inc.,Financial Services,25.5,Medium,gs,Goldman Sachs Group Inc,Financial Services,1135.0,BBB,525.0,305.0,305.0,17-04-2022,True,True,True,True,True
+ALV,ALV,Allianz,Germany,Financials,Insurance,,,,,,,,,,,,,,,False,False,False,False,False
+CS,CS,AXA,France,Financials,Insurance,,,,,,,,,,,,,,,False,False,False,False,False
+BRKB,BRK-B,Berkshire Hathaway,United States,Financials,Diversified Financial Services,BRK-B,Berkshire Hathaway Class B,Financial Services,20.7,Medium,,,,,,,,,,True,False,True,False,False
+BLK,BLK,BlackRock,United States,Financials,Asset Management,BLK,"Blackrock, Inc.",Financial Services,18.3,Low,,,,,,,,,,True,False,True,False,False
+DAL,DAL,Delta Air Lines,United States,Transportation,Airlines,DAL,"Delta Air Lines, Inc.",Industrials,30.3,High,dal,Delta Air Lines Inc,Airlines,1128.0,BBB,515.0,300.0,313.0,17-04-2022,True,True,True,True,True
+UAL,UAL,United Airlines,United States,Transportation,Airlines,UAL,"United Airlines Holdings, Inc.",Industrials,28.6,Medium,ual,United Airlines Holdings Inc,Airlines,629.0,B,205.0,203.0,221.0,19-04-2022,True,True,True,True,True
+LHA,LHA,Lufthansa,Germany,Transportation,Airlines,,,,,,,,,,,,,,,False,False,False,False,False
+RYA,RYA,Ryanair,Ireland,Transportation,Airlines,,,,,,,,,,,,,,,False,False,False,False,False
+FDX,FDX,FedEx,United States,Transportation,Air Freight,FDX,Fedex Corporation,Industrials,19.7,Low,fdx,FedEx Corp,Logistics and Transportation,868.0,BB,335.0,278.0,255.0,17-04-2022,True,True,True,True,True
+UPS,UPS,UPS,United States,Transportation,Air Freight,UPS,"United Parcel Service, Inc. Class B",Industrials,18.6,Low,ups,United Parcel Service Inc,Logistics and Transportation,1159.0,BBB,540.0,374.0,245.0,19-04-2022,True,True,True,True,True
+MAERSKB,MAERSK-B,Maersk,Denmark,Transportation,Marine Shipping,,,,,,,,,,,,,,,False,False,False,False,False
+UNP,UNP,Union Pacific,United States,Transportation,Railroads,UNP,Union Pacific Corp.,Industrials,23.5,Medium,unp,Union Pacific Corp,Road and Rail,792.0,BB,290.0,257.0,245.0,19-04-2022,True,True,True,True,True
+1919HK,1919.HK,COSCO Shipping,China,Transportation,Marine Shipping,,,,,,,,,,,,,,,False,False,False,False,False
+HOLN,HOLN,LafargeHolcim,Switzerland,Construction Materials,Construction Materials,,,,,,,,,,,,,,,False,False,False,False,False
+HDELY,HDELY,HeidelbergMaterials,Germany,Construction Materials,Construction Materials,,,,,,,,,,,,,,,False,False,False,False,False
+CX,CX,Cemex,Mexico,Construction Materials,Construction Materials,,,,,,,,,,,,,,,False,False,False,False,False
+CRH,CRH,CRH,Ireland,Construction Materials,Construction Materials,,,,,,,,,,,,,,,False,False,False,False,False
+VMC,VMC,Vulcan Materials,United States,Construction Materials,Construction Materials,VMC,Vulcan Materials Company,Basic Materials,29.3,Medium,vmc,Vulcan Materials Co,Construction,1189.0,BBB,570.0,319.0,300.0,19-04-2022,True,True,True,True,True
+PLD,PLD,Prologis,United States,Real Estate,Industrial REITs,PLD,"Prologis, Inc.",Real Estate,10.3,Low,pld,Prologis Inc,Real Estate,1268.0,A,579.0,374.0,315.0,19-04-2022,True,True,True,True,True
+CBRE,CBRE,CBRE Group,United States,Real Estate,Real Estate Services,CBRE,"Cbre Group, Inc.",Real Estate,8.0,Negligible,cbre,CBRE Group Inc,Real Estate,609.0,B,200.0,209.0,200.0,10-06-2022,True,True,True,True,True
+DHI,DHI,D.R. Horton,United States,Real Estate,Homebuilding,DHI,D.R. Horton Inc.,Consumer Cyclical,21.0,Medium,dhi,D R Horton Inc,Consumer products,726.0,B,250.0,271.0,205.0,17-04-2022,True,True,True,True,True
+LEN,LEN,Lennar,United States,Real Estate,Homebuilding,LEN,Lennar Corporation Class A,Consumer Cyclical,25.4,Medium,len,Lennar Corp,Consumer products,927.0,BBB,363.0,344.0,220.0,18-04-2022,True,True,True,True,True
+BAM,BAM,Brookfield Asset Management,Canada,Real Estate,Real Estate Investment Managers,,,,,,,,,,,,,,,False,False,False,False,False
