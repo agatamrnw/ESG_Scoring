@@ -19,18 +19,18 @@ ROOT = Path(__file__).resolve().parent
 SCRIPT = ROOT / "sec_financial_dataset.py"
 RESULT = ROOT / "outputs" / "sec_financial" / "financial_esg_sec_2021.csv"
 
-BACKGROUND = "#F7F6FA"
+BACKGROUND = "#FAFAF6"
 SURFACE = "#FFFFFF"
 SURFACE_ALT = "#F2EFFF"
-PURPLE = "#6B35FF"
-PURPLE_LIGHT = "#A99BFF"
+PURPLE = "#5C49A1"
+PURPLE_LIGHT = "#9BA2FF"
 TEXT = "#252238"
-MUTED = "#888399"
+MUTED = "#999283"
 BORDER = "#E8E4F1"
 
 STYLE = """
 QWidget {
-    background-color: #F7F6FA;
+    background-color: #FAFAF6;
     color: #252238;
     font-family: Arial;
     font-size: 13px;
@@ -103,7 +103,7 @@ QComboBox QAbstractItemView {
 }
 
 QPushButton {
-    background-color: #EAE5FF;
+    background-color: #F0EDF7;
     color: #6131D9;
     border: none;
     border-radius: 10px;
@@ -148,7 +148,7 @@ QProgressBar {
     border-radius: 7px;
     height: 14px;
     text-align: center;
-    color: #252238;
+    color: #5C49A1;
 }
 
 QProgressBar::chunk {
